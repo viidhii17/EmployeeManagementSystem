@@ -13,9 +13,13 @@ This is a full stack employee management system based on CRUD operations and dev
 
 ### Employee List
 
-![Employee List](https://github.com/your-username/your-repository/blob/main/path/to/employee-list.png)
+![Employee List](https://github.com/viidhii17/EmployeeManagementSystem/blob/main/EmployeeList.png)
 
-### Employee Form
+### Add Employee 
 
-![Employee Form](https://github.com/your-username/your-repository/blob/main/path/to/employee-form.png)
+![Add Employee](https://github.com/viidhii17/EmployeeManagementSystem/blob/main/AddEmployee.png)
+
+### Update Employee 
+
+![Update Employee](https://github.com/viidhii17/EmployeeManagementSystem/blob/main/UpdateEmployee.png)
 
